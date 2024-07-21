@@ -1,6 +1,6 @@
 # mobile_uas
 
-A new Flutter project.
+A new Flutter project. flutter Version 3.22.2
 
 ## Getting Started
 
