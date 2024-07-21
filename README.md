@@ -3,7 +3,7 @@
 A new Flutter project. flutter Version 3.22.2
 
 ## Getting Started
-![PUNKS 5](https://github.com/user-attachments/assets/7674b242-89f2-4972-bf3f-17e8faa9084a)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
